@@ -1,1 +1,2 @@
 - objetivo 1: perder el miedo a usar la terminal
+- objetivo 2: aprender desarrollo web
