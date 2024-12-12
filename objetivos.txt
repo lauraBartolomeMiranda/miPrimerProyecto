@@ -1,0 +1,3 @@
+- objetivo 1: perder el miedo a usar la terminal
+- objetivo 2: aprender desarrollo web
+- objetivo 3: conseguir un trabajo mas interesante que solo con DAM
