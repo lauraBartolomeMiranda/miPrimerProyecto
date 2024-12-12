@@ -1,0 +1,5 @@
+Conocimientos en programación:
+
+1- Lenguajes: Java, Python, SQL
+2- Lenguajes de marcado: HTML, CSS
+3- IDE's: Android Studio, Eclipse, Visual Studio
